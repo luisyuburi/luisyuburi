@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisyuburi
 - 👀 I’m interested in learn new disruptive technologies
-- 🌱 I’m currently learning React, Ruby, Python
+- 🌱 I’m currently learning React, Ruby, Python.
 - 💞️ I’m looking to collaborate on any project that allows me to continue growing professionally
 - 📫 How to reach me
 Whatsapp: +57 302 213 4495
