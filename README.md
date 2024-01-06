@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, Ruby, Python.
 - 👀 FullStack Developer at Kuepa Edutech.
 - 📫 How to reach me
-Whatsapp: +57 302 213 4495
+Whatsapp: +1 (804) 709 - 5520
 Email: luisyuburi@outlook.com
 
 <!---
