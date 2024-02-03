@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisyuburi
 - 👀 I’m interested in learn new disruptive technologies
-- 🌱 I’m currently learning React, Ruby, Python.
+- 🌱 I’m currently learning NextJs.
 - 💻 FullStack Developer.
 - 📫 How to reach me
 Whatsapp: +1 (804) 709 - 5520
